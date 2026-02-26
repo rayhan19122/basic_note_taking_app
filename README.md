@@ -7,13 +7,16 @@ A clean and simple note-taking app built with **Flutter** and **SQLite** — my 
 ## 📸 App Preview
 
 <p align="center">
-  <img src="https://github.com/rayhan19122/basic_note_taking_app/blob/7d4bb938f306959cb935bb7ce10e9d3d4916c84a/ReadNote.png" width="300" alt="Ostad UI Screenshot">
-  
+  <img src="https://github.com/rayhan19122/basic_note_taking_app/blob/7d4bb938f306959cb935bb7ce10e9d3d4916c84a/ReadNote.png" width="250" alt="Read Notes">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/rayhan19122/basic_note_taking_app/blob/c4e7f13ad3cd065347e1feb53d4be735f73cf2f7/AddNote.png" width="250" alt="Add Note">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/rayhan19122/basic_note_taking_app/blob/c4e7f13ad3cd065347e1feb53d4be735f73cf2f7/EditNote.png" width="250" alt="Edit Note">
 </p>
 
 ---
 
-## 📸 Features
+## ✨ Features
 
 - ✅ Create, Read, Update, and Delete (CRUD) notes
 - ✅ Local SQLite database for offline storage
